@@ -1,2 +1,2 @@
 # INT
-Proyectos IoT
+Proyectos
